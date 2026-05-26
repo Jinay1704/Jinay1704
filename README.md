@@ -10,16 +10,23 @@
 
 ---
 
-## 🧑‍💻 About Me
+# 🚀 About Me
 
-| | |
-|---|---|
-| 🎓 | ECE @ **NIT Jamshedpur** |
-| 🤖 | Passionate about **AI / ML** |
-| 💻 | Building with **MERN Stack** |
-| 🧠 | Exploring **Computer Vision** |
-| 🌱 | Open Source **Contributor** |
-| ⚡ | Builds **real-world AI projects** |
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+- 🎓 ECE Student from Nit Jamshedpur  
+- 🤖 Passionate about **Artificial Intelligence & Machine Learning**
+- 💻 Strong interest in **Full Stack Development**
+- 🧠 Solving DSA problems regularly
+- 🚀 Currently learning:
+  - Deep Learning
+  - Computer Vision
+  - MERN Stack
+  - Advanced Machine Learning
+- 🌱 Exploring Open Source Contributions
+- ⚡ Fun fact: I love building real-world AI projects
+
+---
 
 ---
 
