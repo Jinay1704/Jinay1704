@@ -45,13 +45,13 @@ AI/ML Enthusiast • Full Stack Developer • Competitive Programmer
 ### 🤖 AI / ML
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=tensorflow,keras,mediapipe,numpy,pandas,opencv" />
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
 </p>
 
 ### ⚙ Tools & Platforms
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
 </p>
 
 ---
@@ -65,32 +65,6 @@ AI/ML Enthusiast • Full Stack Developer • Competitive Programmer
 </p>
 
 ---
-
-# 🚀 Featured Projects
-
-## 🔹 AI Interview Preparation Platform
-- Built an intelligent interview preparation platform
-- Included DSA, aptitude, and AI-based assistance
-- Tech Stack: React, Node.js, MongoDB
-
-## 🔹 ML & Deep Learning Projects
-- Machine Learning model implementations
-- CNN and Computer Vision projects
-- Classification & Prediction Systems
-
-## 🔹 Full Stack Web Applications
-- Authentication systems
-- REST APIs
-- Responsive frontend interfaces
-
----
-
-# 🏆 Achievements
-
-- 💡 Strong problem-solving skills
-- 🧠 Active DSA learner
-- 🚀 Building AI-powered projects
-- 🌟 Passionate about learning cutting-edge technologies
 
 ---
 
