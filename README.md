@@ -23,7 +23,6 @@ AI/ML Enthusiast • Full Stack Developer • Competitive Programmer
   - Computer Vision
   - MERN Stack
   - Advanced Machine Learning
-- 🛰 Applying for ML/AI internships including ISRO opportunities
 - 🌱 Exploring Open Source Contributions
 - ⚡ Fun fact: I love building real-world AI projects
 
@@ -46,7 +45,7 @@ AI/ML Enthusiast • Full Stack Developer • Competitive Programmer
 ### 🤖 AI / ML
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+<img src="https://skillicons.dev/icons?i=tensorflow,keras,mediapipe,numpy,pandas,opencv" />
 </p>
 
 ### ⚙ Tools & Platforms
@@ -63,22 +62,6 @@ AI/ML Enthusiast • Full Stack Developer • Competitive Programmer
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jinay1704&show_icons=true&theme=tokyonight&hide_border=true" />
   
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jinay1704&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 📈 Most Used Languages
-
-<p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jinay1704&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🧠 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Jinay1704?theme=dark&font=Karma&ext=contest" />
 </p>
 
 ---
