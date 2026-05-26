@@ -14,7 +14,7 @@ AI/ML Enthusiast • Full Stack Developer • Competitive Programmer
 
 <img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🎓 CSE Student from India  
+- 🎓 ECE Student from Nit Jamshedpur  
 - 🤖 Passionate about **Artificial Intelligence & Machine Learning**
 - 💻 Strong interest in **Full Stack Development**
 - 🧠 Solving DSA problems regularly
