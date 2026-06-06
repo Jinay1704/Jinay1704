@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>AI/ML Developer</b> &nbsp;·&nbsp; <b>Full Stack Developer</b> &nbsp;·&nbsp; DSA Enthusiast
+  <b>Full Stack Developer</b> &nbsp;·&nbsp; <b>AI/ML Developer</b> &nbsp;·&nbsp; DSA Enthusiast
 </p>
 
 ---
