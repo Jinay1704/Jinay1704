@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm <span>Jinay Parmar</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+ML+Developer;DSA+Enthusiastr" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;DSA+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
