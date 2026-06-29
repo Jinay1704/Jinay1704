@@ -36,9 +36,6 @@
 ![C++](https://img.shields.io/badge/C++-004488?style=for-the-badge&logo=cplusplus&logoColor=60cdff)
 ![Python](https://img.shields.io/badge/Python-1e3a1e?style=for-the-badge&logo=python&logoColor=81c784)
 ![JavaScript](https://img.shields.io/badge/JavaScript-3a2d00?style=for-the-badge&logo=javascript&logoColor=f0db4f)
-
-**Web**
-
 ![React](https://img.shields.io/badge/React-001e2e?style=for-the-badge&logo=react&logoColor=61dafb)
 ![Node.js](https://img.shields.io/badge/Node.js-0d2d0d?style=for-the-badge&logo=nodedotjs&logoColor=6dbf67)
 ![Express](https://img.shields.io/badge/Express-1a1a1a?style=for-the-badge&logo=express&logoColor=aaaaaa)
@@ -47,9 +44,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-2b1000?style=for-the-badge&logo=html5&logoColor=f06529)
 ![CSS3](https://img.shields.io/badge/CSS3-001a2b?style=for-the-badge&logo=css3&logoColor=38afd1)
 ![Tailwind](https://img.shields.io/badge/Tailwind-0a1f2b?style=for-the-badge&logo=tailwindcss&logoColor=22d3ee)
-
-**AI / ML & Tools**
-
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2b1500?style=for-the-badge&logo=tensorflow&logoColor=ffb74d)
 ![OpenCV](https://img.shields.io/badge/OpenCV-001f1f?style=for-the-badge&logo=opencv&logoColor=4dd0e1)
 ![Git](https://img.shields.io/badge/Git-1f0a00?style=for-the-badge&logo=git&logoColor=ef5350)
